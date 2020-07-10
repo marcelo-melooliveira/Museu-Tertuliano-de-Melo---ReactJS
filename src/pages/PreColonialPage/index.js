@@ -36,7 +36,7 @@ function PreColonialPage() {
     <ParallaxLayer offset={0.7} speed={1.2} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', pointerEvents: 'none' }}>
      <TextContainer>
       <h2>História Pré-Colonial</h2>
-      <p>O museu Tertuliano de Melo conta com um acerto lítico que foi encontrado e doados por moradores da região da Serra Azul, sendo composto por pilões em rochas, lâminas de machado lascadas e polidas, urnas funerárias indígenas, entre outros. Esses achados mostram que a região foi habitada por povos indígenas que usavam instrumentos para o sua sobrevivência.</p>
+      <p>O museu Tertuliano de Melo conta com um acervo lítico que foi encontrado e doado por moradores da região da Serra Azul, sendo composto por pilões em rochas, lâminas de machado lascadas e polidas, urnas funerárias indígenas, entre outros. Esses achados mostram que a região foi habitada por povos indígenas que usavam instrumentos para a sua sobrevivência.</p>
       <p>Pela importância dos achados houveram diversos estudos nos local, com professores e alunos da área de arqueologia. O projeto também foi visitado e elogiado pelo renomado arqueólogo André Prous, que participou da escavação do fóssil mais antigo da américa latina, batizado de Luzia. Também foi um dos locais mostrados no documentário Vestígios Pré Coloniais Cearences (2020), dirigido por Roberto Bomfim. O documentário está disponível abaixo.</p>
     </TextContainer>
     </ParallaxLayer>

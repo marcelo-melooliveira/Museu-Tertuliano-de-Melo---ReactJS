@@ -104,8 +104,8 @@ function HomePage() {
       </div>
        
     <TextContainer>
-      <p>Tertuliano de Melo Neto é o fundador do museu. Possui formação em pedagogia, mestrado em museologia e atualmente é graduando em arquiologio social inclusiva.</p>
-      <p>Iniciou um acervo pessoal em 1973, onde baseava-se em peças pessoais da família. No ano de 2005 iniciou uma busca na região à procura de peças líticas e cerâmicas que foram doadas por moradores.</p>
+      <p>Tertuliano de Melo Neto é o fundador do museu. Possui formação em pedagogia, mestrado em museologia e atualmente é graduando em arqueologio social inclusiva.</p>
+      <p>Iniciou um acervo pessoal em 1973, onde baseava-se em peças pessoais da família. No ano de 2005 iniciou uma busca na região à procura de peças líticas e cerâmicas, onde muitas foram doadas por moradores.</p>
       <p>Então, no ano de 2013 foi fundado o museu Tertuliano de Melo, que é o primeiro museu arqueológico do sertão central.</p>
     </TextContainer>
   { // https://www.npmjs.com/package/react-image-gallery
