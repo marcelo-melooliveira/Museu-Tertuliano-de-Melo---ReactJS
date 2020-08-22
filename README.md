@@ -1,4 +1,5 @@
 <h1 align=center> <b>Museu Tertuliano de Melo</b></h1>
+
 <h1 align=center>
 <img src="https://ik.imagekit.io/marcelomelo92/logo-museu_WN76U0YQe.png" width="200>
 </h1>
@@ -8,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-<a href="https://museutertulianodemelo.netlify.app/">Acessar demostração</a></h1>
+<a href="https://museutertulianodemelo.netlify.app/">Acessar demostração</a></h3>
 
 ---
 ## 📖 Sobre
